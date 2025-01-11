@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # Jarbas - Assistente Virtual Inteligente
 
-Jarbas é um assistente virtual inteligente que combina tecnologias de ponta para fornecer respostas contextualizadas e interações naturais.
+Jarbas é um assistente virtual inteligente que combina tecnologias de ponta para fornecer respostas contextualizadas e interações naturais. Meu GPT pessoal com avatar.
 
 ## Tecnologias Utilizadas
 
@@ -101,3 +102,8 @@ O projeto utiliza GitHub Actions para:
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# jarbas
+
+Meu GPT pessoal com avatar
+>>>>>>> origin/main
